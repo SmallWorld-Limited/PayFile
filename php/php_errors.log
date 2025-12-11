@@ -1,0 +1,134 @@
+[03-Dec-2025 13:48:34 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/1764766114_OBDXPMN_001300780_16test4.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764766114_OBDXPMN_001300780_16test4_16.csv" -signer "C:\Projects\Yankho\cert.pem" -inkey "C:\Projects\Yankho\key.pem" -outform DER -nodetach -binary -passin pass:"xyz456"
+[03-Dec-2025 13:48:34 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 13:48:34 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 13:48:34 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764766114_OBDXPMN_001300780_16test4_16.csv (2675 bytes)
+[03-Dec-2025 13:50:42 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/1764766242_OBDXPMN_001300780_16test1.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764766242_OBDXPMN_001300780_16test1_17.csv" -signer "C:\Projects\Yankho\cert.pem" -inkey "C:\Projects\Yankho\key.pem" -outform DER -nodetach -binary -passin pass:"xyz456"
+[03-Dec-2025 13:50:43 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 13:50:43 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 13:50:43 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764766242_OBDXPMN_001300780_16test1_17.csv (2669 bytes)
+[03-Dec-2025 13:52:32 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/1764766352_OBDXPMN_001300780_16test4.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764766352_OBDXPMN_001300780_16test4_18.csv" -signer "C:\Projects\Yankho\cert.pem" -inkey "C:\Projects\Yankho\key.pem" -outform DER -nodetach -binary -passin pass:"xyz456"
+[03-Dec-2025 13:52:33 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 13:52:33 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 13:52:33 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764766352_OBDXPMN_001300780_16test4_18.csv (2675 bytes)
+[03-Dec-2025 14:10:26 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/1764767426_OBDXPMN_001300780_16.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764767426_OBDXPMN_001300780_16_19.csv" -signer "C:\Projects\Yankho\cert.pem" -inkey "C:\Projects\Yankho\key.pem" -outform DER -nodetach -binary
+[03-Dec-2025 14:10:27 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 14:10:27 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 14:10:27 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764767426_OBDXPMN_001300780_16_19.csv (2664 bytes)
+[03-Dec-2025 14:26:34 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/1764768394_OBDXPMN_001300780_16test1.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764768394_OBDXPMN_001300780_16test1_20.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[03-Dec-2025 14:26:34 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 14:26:34 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 14:26:34 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764768394_OBDXPMN_001300780_16test1_20.csv (2669 bytes)
+[03-Dec-2025 14:30:44 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/1764768644_OBDXPMN_001300780_16test1.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764768644_OBDXPMN_001300780_16test1_21.csv" -signer "C:\xampp\htdocs\bid_trackerr" -inkey "C:\xampp\htdocs\bid_trackerr" -outform DER -nodetach -binary
+[03-Dec-2025 14:30:45 Europe/Berlin] OpenSSL Output: Could not find signer certificate from C:\xampp\htdocs\bid_trackerr
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+[03-Dec-2025 14:30:45 Europe/Berlin] OpenSSL Return Code: 3
+[03-Dec-2025 14:30:45 Europe/Berlin] OpenSSL signing failed (Code: 3): Could not find signer certificate from C:\xampp\htdocs\bid_trackerr
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+[03-Dec-2025 14:30:45 Europe/Berlin] Signing error: OpenSSL signing failed (Code: 3): Could not find signer certificate from C:\xampp\htdocs\bid_trackerr
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+40560000:error:07800081:common libcrypto routines:get_string_ptr_internal:param of incompatible type:crypto\params.c:1684:
+[03-Dec-2025 14:31:21 Europe/Berlin] Signing error: Certificate file not found: d.pem
+[03-Dec-2025 14:31:44 Europe/Berlin] Signing error: Private key file not found: d.pem
+[03-Dec-2025 14:32:05 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/1764768725_OBDXPMN_001300780_16test1.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764768725_OBDXPMN_001300780_16test1_24.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[03-Dec-2025 14:32:05 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 14:32:05 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 14:32:05 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_1764768725_OBDXPMN_001300780_16test1_24.csv (2669 bytes)
+[03-Dec-2025 15:38:37 Europe/Berlin] Signing command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/1764772717_OBDXPMN_001300780_16test1.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/OBDXPMN_001300780_16test1_Signed.csv" -signer "cert.pem" -inkey "key.pem" -outform DER -nodetach -binary -passin pass:"xyz456"
+[03-Dec-2025 15:38:38 Europe/Berlin] OpenSSL output: Could not open file or uri for loading signer certificate from cert.pem: No such file or directory
+[03-Dec-2025 15:38:38 Europe/Berlin] Return code: 3
+[03-Dec-2025 15:38:38 Europe/Berlin] Signing error: OpenSSL failed: Could not open file or uri for loading signer certificate from cert.pem: No such file or directory
+[03-Dec-2025 15:41:42 Europe/Berlin] === ABSOLUTE PATHS ===
+[03-Dec-2025 15:41:42 Europe/Berlin] Input file: C:\xampp\htdocs\bid_trackerr\uploads\1764772902_OBDXPMN_001300780_16test1.csv
+[03-Dec-2025 15:41:42 Europe/Berlin] Certificate: C:\xampp\htdocs\bid_trackerr\cert.pem
+[03-Dec-2025 15:41:42 Europe/Berlin] Private key: C:\xampp\htdocs\bid_trackerr\key.pem
+[03-Dec-2025 15:41:42 Europe/Berlin] OpenSSL command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "C:\xampp\htdocs\bid_trackerr\uploads\1764772902_OBDXPMN_001300780_16test1.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/OBDXPMN_001300780_16test1_Signed_1.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary -passin pass:"xyz456"
+[03-Dec-2025 15:41:43 Europe/Berlin] OpenSSL output: 
+[03-Dec-2025 15:41:43 Europe/Berlin] Return code: 0
+[03-Dec-2025 15:41:43 Europe/Berlin] Signed file created: C:\xampp\htdocs\bid_trackerr/signed_files/OBDXPMN_001300780_16test1_Signed_1.csv (2669 bytes)
+[03-Dec-2025 15:44:50 Europe/Berlin] === ABSOLUTE PATHS ===
+[03-Dec-2025 15:44:50 Europe/Berlin] Input file: C:\xampp\htdocs\bid_trackerr\uploads\1764773090_OBDXPMN_001300780_16test4.csv
+[03-Dec-2025 15:44:50 Europe/Berlin] Certificate: C:\xampp\htdocs\bid_trackerr\cert.pem
+[03-Dec-2025 15:44:50 Europe/Berlin] Private key: C:\xampp\htdocs\bid_trackerr\key.pem
+[03-Dec-2025 15:44:50 Europe/Berlin] OpenSSL command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "C:\xampp\htdocs\bid_trackerr\uploads\1764773090_OBDXPMN_001300780_16test4.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/OBDXPMN_001300780_16test4_Signed.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary -passin pass:"xyz456"
+[03-Dec-2025 15:44:51 Europe/Berlin] OpenSSL output: 
+[03-Dec-2025 15:44:51 Europe/Berlin] Return code: 0
+[03-Dec-2025 15:44:51 Europe/Berlin] Signed file created: C:\xampp\htdocs\bid_trackerr/signed_files/OBDXPMN_001300780_16test4_Signed.csv (2675 bytes)
+[03-Dec-2025 15:51:14 Europe/Berlin] === ABSOLUTE PATHS ===
+[03-Dec-2025 15:51:14 Europe/Berlin] Input file: C:\xampp\htdocs\bid_trackerr\uploads\1764773474_OBDXPMN_001300780_16.csv
+[03-Dec-2025 15:51:14 Europe/Berlin] Certificate: C:\xampp\htdocs\bid_trackerr\cert.pem
+[03-Dec-2025 15:51:14 Europe/Berlin] Private key: C:\xampp\htdocs\bid_trackerr\key.pem
+[03-Dec-2025 15:51:14 Europe/Berlin] OpenSSL command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "C:\xampp\htdocs\bid_trackerr\uploads\1764773474_OBDXPMN_001300780_16.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/OBDXPMN_001300780_16_Signed.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary -passin pass:"xyz456"
+[03-Dec-2025 15:51:15 Europe/Berlin] OpenSSL output: 
+[03-Dec-2025 15:51:15 Europe/Berlin] Return code: 0
+[03-Dec-2025 15:51:15 Europe/Berlin] Signed file created: C:\xampp\htdocs\bid_trackerr/signed_files/OBDXPMN_001300780_16_Signed.csv (2664 bytes)
+[03-Dec-2025 20:47:44 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/OBDXPMN_001300780_16.csv_1764791264" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_001300780_16_29.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[03-Dec-2025 20:47:45 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 20:47:45 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 20:47:45 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_001300780_16_29.csv (2664 bytes)
+[03-Dec-2025 20:49:37 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/OBDXPMN_001300780_16.csv_1764791377" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_001300780_16_30.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[03-Dec-2025 20:49:38 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 20:49:38 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 20:49:38 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_001300780_16_30.csv (2664 bytes)
+[03-Dec-2025 20:55:43 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/OBDXPMN_001300780_16.csv_1764791743" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_001300780_16_31.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[03-Dec-2025 20:55:43 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 20:55:43 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 20:55:43 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_001300780_16_31.csv (2664 bytes)
+[03-Dec-2025 21:01:55 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/OBDXPMN_1764792115001300780_176479211516.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_1764792115001300780_176479211516_32.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[03-Dec-2025 21:01:55 Europe/Berlin] OpenSSL Output: 
+[03-Dec-2025 21:01:55 Europe/Berlin] OpenSSL Return Code: 0
+[03-Dec-2025 21:01:55 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_1764792115001300780_176479211516_32.csv (2664 bytes)
+[04-Dec-2025 11:18:35 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/OBDXPMN_1764843515001300780_176484351516.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_1764843515001300780_176484351516_33.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[04-Dec-2025 11:18:36 Europe/Berlin] OpenSSL Output: 
+[04-Dec-2025 11:18:36 Europe/Berlin] OpenSSL Return Code: 0
+[04-Dec-2025 11:18:36 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_1764843515001300780_176484351516_33.csv (2664 bytes)
+[04-Dec-2025 11:22:41 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/OBDXPMN_1764843761001300780_176484376116.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_1764843761001300780_176484376116_34.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[04-Dec-2025 11:22:42 Europe/Berlin] OpenSSL Output: 
+[04-Dec-2025 11:22:42 Europe/Berlin] OpenSSL Return Code: 0
+[04-Dec-2025 11:22:42 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_1764843761001300780_176484376116_34.csv (2664 bytes)
+[04-Dec-2025 17:46:59 Europe/Berlin] OpenSSL Command: "C:\Program Files\OpenSSL-Win64\bin\openssl.exe" smime -sign -in "../uploads/OBDXPMN_1764866819001300780_176486681916.csv" -out "C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_1764866819001300780_176486681916_35.csv" -signer "C:\xampp\htdocs\bid_trackerr\cert.pem" -inkey "C:\xampp\htdocs\bid_trackerr\key.pem" -outform DER -nodetach -binary
+[04-Dec-2025 17:47:00 Europe/Berlin] OpenSSL Output: 
+[04-Dec-2025 17:47:00 Europe/Berlin] OpenSSL Return Code: 0
+[04-Dec-2025 17:47:00 Europe/Berlin] Signed file created successfully: C:\xampp\htdocs\bid_trackerr/signed_files/signed_OBDXPMN_1764866819001300780_176486681916_35.csv (2664 bytes)
+[07-Dec-2025 12:56:33 Europe/Berlin] PHP Deprecated:  file_exists(): Passing null to parameter #1 ($filename) of type string is deprecated in C:\xampp\htdocs\bid_trackerr\php\file_handler.php on line 129
+[07-Dec-2025 14:33:18 Europe/Berlin] PHP Deprecated:  file_exists(): Passing null to parameter #1 ($filename) of type string is deprecated in C:\xampp\htdocs\bid_trackerr\php\file_handler.php on line 129
